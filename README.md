@@ -44,6 +44,7 @@ You can install any missing libraries using `pip`:
  - Press Encrypt or Decrypt to see the results.
 
 ## File Structure:
+```markdown
 .
 ├── cipher_gui.py               # Main script for running the GUI application
 ├── ciphers.py                  # Script containing implementations of cipher algorithms
@@ -53,6 +54,7 @@ You can install any missing libraries using `pip`:
 │   └── back_button_image.png
 │   └── exit.png
 └── README.md                   # Project documentation
+```
 
 
 ## Supported Ciphers
@@ -80,4 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any questions or contributions, feel free to reach out:
 
  - Email: mahrufhossain97@gmail.com
- - GitHub: [MahrufHossain[(https://github.com/MahrufHossain)
+ - GitHub: [MahrufHossain](https://github.com/MahrufHossain)
